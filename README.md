@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎮 Astray
 
 A 3D ball maze with realistic physics, procedurally generated levels, and dynamic lighting. Roll your ball through increasingly challenging mazes, avoid obstacles, and reach the exit!
@@ -148,3 +149,7 @@ Feel free to fork, modify, and improve! Suggestions for enhancements:
 ---
 
 Enjoy the maze! 🎉
+=======
+# 3D-Ball-Maze
+Astray is a 3D ball maze game with procedurally generated levels and realistic physics. Roll your ball through challenging mazes, avoid obstacles, and reach the exit. Features dynamic lighting and progressive difficulty. Built with Three.js and WebGL.
+>>>>>>> 720a3a4b1e31fef1cfa3a99e267a49719007d03d
