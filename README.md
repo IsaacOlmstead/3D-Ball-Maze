@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-# 🎮 A3D-Ball-Maze
+# 🎮 A 3D-Ball-Maze
 
 A 3D ball maze with realistic physics, procedurally generated levels, and dynamic lighting. Roll your ball through increasingly challenging mazes, avoid obstacles, and reach the exit!
 
-**[Play now!](http://wwwtyro.github.io/Astray/)**
+**[Play now!](https://isaacolmstead.github.io/3D-Ball-Maze/)**
 
 ---
 
@@ -122,8 +121,9 @@ Feel free to fork, modify, and improve! Suggestions for enhancements:
 - Sound effects and music
 - Multiple game modes
 - Leaderboard/scoring system
-- Mobile touch controls
+- Mobile touch controls + tilt to move features
 - Custom maze sizes
+- Using modern Three.js
 
 ---
 
