@@ -121,8 +121,9 @@ Feel free to fork, modify, and improve! Suggestions for enhancements:
 - Sound effects and music
 - Multiple game modes
 - Leaderboard/scoring system
-- Mobile touch controls
+- Mobile touch controls + tilt to move features
 - Custom maze sizes
+- Using modern Three.js
 
 ---
 
