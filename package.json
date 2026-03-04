@@ -16,5 +16,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaacOlmstead/3D-Ball-Maze.git"
+  },
+  "bugs": {
+    "url": "https://github.com/IsaacOlmstead/3D-Ball-Maze/issues"
+  },
+  "homepage": "https://github.com/IsaacOlmstead/3D-Ball-Maze#readme"
 }
