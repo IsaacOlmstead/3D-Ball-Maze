@@ -25,7 +25,7 @@ const acceleration = new THREE.Vector2(0, 0);
 
 // Tuning
 const ACCEL = 0.004;
-const MAX_SPEED = 0.12;
+const MAX_SPEED = 0.15;
 const DRAG = 0.90;
 
 init();
