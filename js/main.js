@@ -1,3 +1,5 @@
+import { generateSquareMaze } from './maze.js';
+
 import * as THREE from 'https://unpkg.com/three@0.160.0/build/three.module.js';
 
 const container = document.getElementById('game-container');
